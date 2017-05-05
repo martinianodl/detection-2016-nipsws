@@ -53,7 +53,7 @@ Our workshop paper is available on [arXiv](https://arxiv.org/abs/1611.03718), an
 
 Please cite with the following Bibtex code:
 
-````
+```
 @InProceedings{Bellver_2016_NIPSWS,
 author = {Bellver, Miriam and Giro-i-Nieto, Xavier and Marques, Ferran and Torres, Jordi},
 title = {Hierarchical Object Detection with Deep Reinforcement Learning},
